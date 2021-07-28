@@ -1,0 +1,21 @@
+.inputElement {
+  box-sizing: border-box;
+  width: 60vw;
+  height: 35px;
+  padding: 10px;
+  border: 1px solid green;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.inputContainer {
+  margin: 20px;
+}
+.buttonHolder {
+  margin-top: 20px;
+}
+.allTodoConatiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
